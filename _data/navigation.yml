@@ -1,0 +1,11 @@
+main:
+    - title: "Program"
+      url: /program/
+    - title: "Registration and abstract submission"
+      url: /register/
+    - title: "Information"
+      url: /info/
+    - title: "Conduct"
+      url: /conduct/
+    - title: "Contact"
+      url: /contact/
