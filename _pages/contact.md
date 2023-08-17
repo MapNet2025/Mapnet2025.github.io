@@ -9,11 +9,11 @@ header:
 
 # Contact us
 
-You can email the MapNet 2019 organisers at <mapnet2019@vuw.ac.nz>. This is the preferred method of contact.
+You can email the MapNet 2023 organisers at <>. This is the preferred method of contact.
 
 If necessary, you can also contact one of the organisers directly:
 
-•	Peter Ritchie E-mail: <Peter.Ritchie@vuw.ac.nz>
+
 
 
 
