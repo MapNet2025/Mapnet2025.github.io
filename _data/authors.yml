@@ -1,8 +1,8 @@
 MapNet 2018:
-  name             : "MapNet 2019"
+  name             : "MapNet 2023"
   avatar           : "/assets/mapnet.jpg"
-  bio              : 'November 18–19<br><i class="fa fa-map-marker-alt fa-w-12 fa-fw"></i> <a href="https://www.google.com/maps/place/Victoria+University+of+Wellington/@-41.2904017,174.7686615,15z/data=!4m5!3m4!1s0x0:0xadf3ba89622116f0!8m2!3d-41.2904017!4d174.7686615" target="_blank">Victoria University of Wellington, Wellington</a>'
-  email            : "mapnet2019@vuw.ac.nz"
+  bio              : 'November 22–24<br>University of Otago and AgResearch</a>'
+  email            : # "mapnet2019@vuw.ac.nz"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
