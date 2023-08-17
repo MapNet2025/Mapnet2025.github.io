@@ -19,7 +19,7 @@ Participants engaging in harassing behaviour may be sanctioned in any way organi
  
 In addition, if the harassing behaviour is part of a sponsor's display or a talk the display will be removed or the talk stopped without refund of the sponsorship.
 
-**MapNet 2019 participants agree to**:
+**MapNet 2023 participants agree to**:
 
 - Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees.
 - Refrain from demeaning, discriminatory, or harassing behaviour and speech. Harassment includes, but is not limited to:
@@ -44,11 +44,9 @@ All slides and presentation materials are subject to the code of conduct. Materi
 
 ## Need help?
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the MapNet team (listed below) or email [mapnet2019@vuw.ac.nz](mailto:mapnet2019@vuw.ac.nz).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the MapNet team (listed below).
 
 ## MapNet team
-
-Peter Ritchie e-mail: [Peter.Ritchie@vuw.ac.nz](mailto:Peter.Ritchie@vuw.ac.nz)
 
 TBA
 
