@@ -9,30 +9,44 @@ header:
 
 ## Key dates
 
-| Deadline for abstract submission | 1 November, 2019 |
-| Registration closes | 1 November, 2019 |
-| MapNet | 18-19 November, 2019 | Start time 9:30 am Monday 18 Nov | Finish time 3:30 pm Tuesday 19 Nov |
+| Deadline for abstract submission | XX YYY, 2023 |
+| Registration closes | XX YYY, 2023 |
+| MapNet | XX YYY, 2023 | Start time:  | Finish time: |
 
 ## Location
 
-MapNet 2019 will be held in the [Te Toki a Rata building](https://goo.gl/maps/c8pcsTwHtF8RyR5u9) lecture theatre (TTR L1) on the Kelburn Campus at Victoria University of Wellington.
+MapNet 2023 is being held in conjunction with the Genomics Aotearoa Annual Meeting, and 
+our first session on the afternoon of Wednesday 22 November will be shared with the 
+Genomics Aotearoa event, and will take place in the XXX lecture theatre on the University of 
+Otago campus.
+
+The Thursday and Friday MapNet sessions will be held in the XXX seminar room at AgResearch Invermay.
 
 ## Social Media
 
-If you are using twitter, tag your conference posts #mapn19
+If you are using X (a.k.a. the social media platform formerly known as Twitter), tag your conference posts #mapn23
 
 Please respect the requests of speakers and conference attendees that ask or suggest not to be included in social media posts.
 
 ## Travel
 
-Wellington airport (WLG) is about 9 km to Victoria University. Taxis from the airport cost $40+ and take half an hour or so. There are also shared shuttle services which can drop you in the centre of town or at your accommodation for about $18–25, and take around an hour. The airport bus will take you to the center city, where you can transfer to a bus to VUW.
+<!-- Wellington airport (WLG) is about 9 km to Victoria University. Taxis from the airport cost $40+ and take half an hour or so. There are also shared shuttle services which can drop you in the centre of town or at your accommodation for about $18–25, and take around an hour. The airport bus will take you to the center city, where you can transfer to a bus to VUW. -->
 
 
 ## Accommodation
 
-The best low cost and convenient accomodation option for MapNet 2019 is [Te Puni Village](https://www.mystudentvillage.com/nz/short-stays-newzealand/te-puni-village). Click on "Book now". Use the code MapNet2019 in the promo field after selecting the dates for your stay.
+<!-- The best low cost and convenient accomodation option for MapNet 2019 is [Te Puni Village](https://www.mystudentvillage.com/nz/short-stays-newzealand/te-puni-village). Click on "Book now". Use the code MapNet2019 in the promo field after selecting the dates for your stay.-->
 
 
 Conference organising committee:
-Peter Ritchie, 
-Mel Dohner
+- Rachael Ashby
+- Mik Black
+- Rebecca Clarke
+- Shannon Clarke
+- Ken Dodds
+- Jeanne Jacobs
+- Jie Kang
+- Maddi Post
+- Phillip Wilcox
+
+
