@@ -9,6 +9,9 @@ header:
 
 # Registration
 
+Check back soon for registration information!
+
+<!--
 - MapNet registration is now open 
 - Registration for MapNet 2019 is $130 full and $100 student
 - The conference dinner on 18 November at The Backbencher is $45pp and limited to 75 seats 
@@ -16,9 +19,13 @@ header:
 - Cancellation of registration up until 31 October will result in a refund minus an administration fee of $35. After 1 November, no refund will be applied. Refunds will only be directed back to those accounts from which the initial payment was made
 
 **[Click here to register](https://vuw.eventsair.com/mapnet-2019/mapnet2019)**.
+-->
 
 # Abstracts
 
+Check back soon for abstract submission information!
+
+<!--
 - The deadline for abstract submission is 5 pm on 1 November, 2019 <br/><br/>
 Each speaker will be located 15 mins; as a guide plan to give a 12 min long presentation with 3 mins for questions<br/><br/>
 - Please note that we won’t accept abstracts without a conference registration
@@ -42,4 +49,4 @@ INSTRUCTIONS<br/>
 ________________________________________
 Email: <mapnet2019@vuw.ac.nz>
 Postal address: School of Biological Sciences, Victoria, University of Wellington, PO Box 600, Wellington 6140
-
+-->
