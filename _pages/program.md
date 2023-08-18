@@ -11,7 +11,7 @@ header:
 
 <!-- [**Click here for the conference programme**](https://vuwgenomics.github.io/mapnet2019.github.io/pdfs/MapNet2019programme.pdf).-->
 
-Keynote speakers<br/>
+Keynote speakers (more to come!)<br/>
 - Professor Elinor Karlsson: Director, Vertebrate Genomics, Broad Institute of MIT and Harvard.
 - Alison Van Eenennaam: Animal Genomics and Biotechnology, University of California, Davis.
 
