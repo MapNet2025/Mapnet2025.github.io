@@ -50,4 +50,6 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 TBA
 
-#### Adapted with permission from [https://user2018.r-project.org/](https://user2018.r-project.org/code_of_conduct){:target="_blank",rel="noopener"}
+#### Adapted with permission from:
+
+[https://user2018.r-project.org/](https://user2018.r-project.org/code_of_conduct){:target="_blank",rel="noopener"}
