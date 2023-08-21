@@ -1,6 +1,6 @@
 main:
-    - title: "Program"
-      url: /program/
+    - title: "Programme"
+      url: /programme/
     - title: "Registration and abstract submission"
       url: /register/
     - title: "Information"
