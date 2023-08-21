@@ -13,11 +13,15 @@ header:
 
 # Welcome to the 2023 MapNet meeting
 
-MapNet2023 will be held in Dunedin, New Zealand, at the University of Otago and AgResearch, Invermay from November 22–24.
+MapNet2023 will be held November 22–24 in Dunedin, New Zealand, at the University of Otago (22 Nov) and AgResearch Invermay (23-24 Novembver).
 
-[**Click here for the conference programme**]() <!-- (https://vuwgenomics.github.io/mapnet2019.github.io/pdfs/MapNet2019programme.pdf). -->
+[Programme information](https://mapnet2023.github.io/programme/)
 
-**[Click here to register]**() <!-- (https://vuw.eventsair.com/mapnet-2019/mapnet2019). -->
+[Registration information](https://mapnet2023.github.io/register/)
+
+<!-- [**Click here for the conference programme**]()  (https://vuwgenomics.github.io/mapnet2019.github.io/pdfs/MapNet2019programme.pdf). -->
+
+ <!-- **[Click here to register]**()(https://vuw.eventsair.com/mapnet-2019/mapnet2019). -->
 
 ## MapNet 2023
 
