@@ -48,7 +48,15 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 ## MapNet team
 
-TBA
+- Rachael Ashby
+- Mik Black
+- Rebecca Clarke
+- Shannon Clarke
+- Ken Dodds
+- Jeanne Jacobs
+- Jie Kang
+- Maddi Post
+- Phillip Wilcox
 
 #### Adapted with permission from:
 
