@@ -37,7 +37,7 @@ MapNet is a group of New Zealand-based molecular and quantitative geneticists fr
 
 We look forward to seeing you in Dunedin.
 
-- MapNet Organising Committee
+\- MapNet Organising Committee
 
 ![MapNet](../assets/mapnet.jpg)
    
