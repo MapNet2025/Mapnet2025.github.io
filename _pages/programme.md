@@ -1,5 +1,5 @@
 ---
-permalink: /program/
+permalink: /programme/
 header:
     cta_label: False
     cta_url: False
@@ -7,7 +7,7 @@ header:
 
 <span></span>
 
-# Program
+# Programme
 
 <!-- [**Click here for the conference programme**](https://vuwgenomics.github.io/mapnet2019.github.io/pdfs/MapNet2019programme.pdf).-->
 
