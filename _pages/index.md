@@ -45,7 +45,7 @@ MapNet2023 themes include primary sector genomics, bioinformatics, integrating i
 
 <span></span>
 
-[![BeefLambGeneticsNZ](../assets/beef_lamb_genetics_nz.jpg)](https://beeflambnz.com/science-genetics/blnz-genetics){:target="_blank"}
+[![BeefLambGeneticsNZ](../assets/beef_lab_genetics_nz.jpg)](https://beeflambnz.com/science-genetics/blnz-genetics){:target="_blank"}
 
 
 
