@@ -29,7 +29,25 @@ MapNet2023 themes include primary sector genomics, bioinformatics, integrating i
 
 ## Sponsors
 
-TBA
+[![AgResearch](../assets/agresearch.jpg)](https://www.agresearch.co.nz/){:target="_blank"}
+
+<span></span>
+
+[![UniversityOfOtago](../assets/university-of-otago.jpg)](https://www.otago.ac.nz.nz){:target="_blank"}
+
+<span></span>
+
+[![GenomicsAotearoa](../assets/GA-Wide-Colour-1200px.jpg)](https://www.genomics-aotearoa.org.nz){:target="_blank"}
+
+<span></span>
+
+[![AbacusBio](../assets/abacus.jpg)](https://abacusbio.com/){:target="_blank"}
+
+<span></span>
+
+[![BeefLambGeneticsNZ](../assets/beef_lamb_genetics_nz.jpg)](https://beeflambnz.com/science-genetics/blnz-genetics){:target="_blank"}
+
+
 
 ### About MapNet 
 
