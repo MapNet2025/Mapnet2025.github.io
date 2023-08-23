@@ -25,7 +25,7 @@ Check back soon for registration information!
 
 Download: [abstract submission template](https://mapnet2023.github.io/assets/MapNet-Abstract-Template-2023.docx)
 
-- The deadline for abstract submission is 5 pm on 25 October, 2023
+- The deadline for abstract submission is 5 pm on 25 October, 2023.
 - Please email your abstracts (using the template above) to: <a href="mailto:Rebecca.Clarke@agresearch.co.nz?subject=MapNet23 abstract submission">Rebecca.Clarke@agresearch.co.nz</a>
 
 <!--
