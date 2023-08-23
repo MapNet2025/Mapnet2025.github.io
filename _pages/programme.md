@@ -13,15 +13,17 @@ header:
 
 Keynote speakers (more to come!)<br/>
 - Professor Elinor Karlsson: Director, Vertebrate Genomics, Broad Institute of MIT and Harvard.
-- Alison Van Eenennaam: Animal Genomics and Biotechnology, University of California, Davis.
+- Professor Alison Van Eenennaam: Animal Genomics and Biotechnology, University of California, Davis.
+- Associate Professor Vinzent Börner: Aarhus University.
 
-Session topics will include:
+Topics will include:
 - Primary sector genotyping and breeding
 - Ecological and evolutionary genomics
 - Māori kaupapa/Te Ao Māori into genetics/genomics teaching and research
 - Microbial genomics and eDNA
 - Methodology advances in statistical genetics
 - Human & health genomics and epigenomics
+- New technologies for revealing genetic variation
 
 <!-- Email your abstract to: <mapnet2019@vuw.ac.nz> -->
 
