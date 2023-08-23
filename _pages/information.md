@@ -30,17 +30,17 @@ If you are using X (a.k.a. the social media platform formerly known as Twitter),
 
 Please respect the requests of speakers and conference attendees that ask or suggest not to be included in social media posts.
 
-## Travel
+<!-- ## Travel -->
 
 <!-- Wellington airport (WLG) is about 9 km to Victoria University. Taxis from the airport cost $40+ and take half an hour or so. There are also shared shuttle services which can drop you in the centre of town or at your accommodation for about $18–25, and take around an hour. The airport bus will take you to the center city, where you can transfer to a bus to VUW. -->
 
 
-## Accommodation
+<!-- ## Accommodation -->
 
 <!-- The best low cost and convenient accomodation option for MapNet 2019 is [Te Puni Village](https://www.mystudentvillage.com/nz/short-stays-newzealand/te-puni-village). Click on "Book now". Use the code MapNet2019 in the promo field after selecting the dates for your stay.-->
 
 
-Conference organising committee:
+## Conference organising committee:
 - Rachael Ashby
 - Mik Black
 - Rebecca Clarke
