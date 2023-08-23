@@ -9,8 +9,8 @@ header:
 
 ## Key dates
 
-| Deadline for abstract submission | 1 November, 2023 |
-| Registration closes | 15 November, 2023 |
+| Deadline for abstract submission | 25 October, 2023 |
+| Registration closes | 6 November, 2023 |
 | MapNet | 22-24 November, 2023 | 
 |        | Start time: 1:00pm (22/11/23) | 
 |        | Finish time: 3:00pm (24/11/23) |
