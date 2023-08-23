@@ -11,7 +11,7 @@ header:
 
 You can email the MapNet 2023 organisers at <>. This is the preferred method of contact.
 
-If necessary, you can also contact one of the organisers directly:
+If necessary, you can also contact one of the organisers directly.
 
 
 
