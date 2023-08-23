@@ -12,17 +12,17 @@ header:
 | Deadline for abstract submission | 1 November, 2023 |
 | Registration closes | 15 November, 2023 |
 | MapNet | 22-24 November, 2023 | 
-|        | Start time: 1pm (22/11/23) | 
+|        | Start time: 1:00pm (22/11/23) | 
 |        | Finish time: 3:00pm (24/11/23) |
 
 ## Location
 
 MapNet 2023 is being held in conjunction with the Genomics Aotearoa Annual Meeting, and 
 our first session on the afternoon of Wednesday 22 November will be shared with the 
-Genomics Aotearoa event, and will take place in the XXX lecture theatre on the University of 
+Genomics Aotearoa event, and will take place in the John Arnaud Bell lecture theatre on the University of 
 Otago campus.
 
-The Thursday and Friday MapNet sessions will be held in the XXX seminar room at AgResearch Invermay.
+The Thursday and Friday MapNet sessions will be held in the Cullen Conference Room at AgResearch Invermay.
 
 ## Social Media
 
