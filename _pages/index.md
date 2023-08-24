@@ -29,8 +29,6 @@ MapNet2023 themes include primary sector genomics, bioinformatics, integrating i
 
 ## Sponsors
 
-<!-- [![AgResearch](../assets/agresearch.jpg)](https://www.agresearch.co.nz/){:target="_blank"} -->
-
 [![AgResearch](../assets/agresearch-logo-600px.png)](https://www.agresearch.co.nz/){:target="_blank"}
 
 <span></span>
@@ -51,7 +49,7 @@ MapNet2023 themes include primary sector genomics, bioinformatics, integrating i
 
 
 
-![MapNet](../assets/mapnet.jpg)
+<!-- ![MapNet](../assets/mapnet.jpg) -->
    
-<span></span>
+<!-- <span></span> -->
 
