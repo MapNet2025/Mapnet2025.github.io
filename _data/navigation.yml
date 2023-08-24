@@ -7,5 +7,8 @@ main:
       url: /info/
     - title: "Conduct"
       url: /conduct/
+    - title: "About"
+      url: /about/
+
 #    - title: "Contact"
 #      url: /contact/
