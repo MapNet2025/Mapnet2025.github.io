@@ -9,7 +9,7 @@ header:
 
 # Contact us
 
-You can email the MapNet 2023 organisers at <>. This is the preferred method of contact.
+You can email the MapNet 2023 organisers at <a hef="mailto:mapnet23@agresearch.co.nz">mapnet23@agresearch.co.nz</a>. This is the preferred method of contact.
 
 If necessary, you can also contact one of the organisers directly.
 
