@@ -9,7 +9,9 @@ header:
 
 # Registration
 
-Check back soon for registration information!
+MapNet [registration](https://events.humanitix.com/mapnet-2023) is now open. 
+
+- Registration for MapNet 2023 is $150 NZD + BF + GST. This includes dinner on Thursday 23rd November. 
 
 <!--
 - MapNet registration is now open 
