@@ -14,7 +14,7 @@ header:
 Keynote speakers<br/>
 - Professor Elinor Karlsson: Director, Vertebrate Genomics, Broad Institute of MIT and Harvard.
 - Professor Alison Van Eenennaam: Animal Genomics and Biotechnology, University of California, Davis.
-- Associate Professor Vinzent Börner: Aarhus University.
+- Associate Professor Vinzent Börner: GHPC Consulting and Services Pty Ltd, Australia.
 
 Topics will include:
 - Primary sector genotyping and breeding
