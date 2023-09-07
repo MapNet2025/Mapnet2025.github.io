@@ -11,7 +11,9 @@ header:
 
 MapNet [registration](https://events.humanitix.com/mapnet-2023) is now open. 
 
-- Registration for MapNet 2023 is $150 NZD + BF + GST. This includes dinner on Thursday 23rd November. 
+- Registration for MapNet 2023 is $150 NZD + Booking Fee* + GST. This includes dinner on Thursday 23rd November.
+
+  *Note profits from booking fees taken through Humanitix are donated to chariatable organisations. 
 
 <!--
 - MapNet registration is now open 
@@ -29,6 +31,9 @@ Download: [abstract submission template](https://mapnet2023.github.io/assets/Map
 
 - The deadline for abstract submission is 5pm on 25 October, 2023.
 - Please email your abstracts (using the template above) to: <a href="mailto:mapnet23@agresearch.co.nz?subject=MapNet23 abstract submission">mapnet23@agresearch.co.nz</a>
+
+
+
 
 <!--
 - The deadline for abstract submission is 5 pm on 1 November, 2019 <br/><br/>
