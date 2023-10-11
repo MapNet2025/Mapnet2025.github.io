@@ -13,8 +13,11 @@ header:
 
 Keynote speakers<br/>
 - Professor Elinor Karlsson: Director, Vertebrate Genomics, Broad Institute of MIT and Harvard.
+    - _The Future of Comparative Genomics: Finding Meaning in DNA Sequence in a Million Genome Age_ 
 - Professor Alison Van Eenennaam: Animal Genomics and Biotechnology, University of California, Davis.
+    - _Global Status of Gene Edited Food Animals and their Products_ 
 - Associate Professor Vinzent Börner: GHPC Consulting and Services Pty Ltd, Australia.
+    - _Past, present and future of high performance computing in animal breeding_
 
 Topics will include:
 - Primary sector genotyping and breeding
