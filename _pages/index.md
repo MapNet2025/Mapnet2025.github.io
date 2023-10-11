@@ -15,6 +15,25 @@ header:
 
 MapNet2023 will be held November 22–24 in Dunedin, New Zealand, at the University of Otago (22 November) and AgResearch Invermay (23-24 Novembver).
 
+**Keynote speakers**
+
+- Professor Elinor Karlsson: Director, Vertebrate Genomics, Broad Institute of MIT and Harvard.
+    - _The Future of Comparative Genomics: Finding Meaning in DNA Sequence in a Million Genome Age_
+
+- Professor Alison Van Eenennaam: Animal Genomics and Biotechnology, University of California, Davis.
+    - _Global Status of Gene Edited Food Animals and their Products_
+  
+- Associate Professor Vinzent Börner: GHPC Consulting and Services Pty Ltd, Australia.
+    - _Past, present and future of high performance computing in animal breeding_
+ 
+**Confirmed Speakers**
+ 
+- Dr Suzanne Rowe: Senior Scientist, Animal Genomics, AgResearch, Invermay.
+    - _Using molecular phenotypes to lower global methane emissions_
+
+
+
+
 [Programme information](https://mapnet2023.github.io/programme/)
 
 [Registration and abstract submission](https://mapnet2023.github.io/register/)
