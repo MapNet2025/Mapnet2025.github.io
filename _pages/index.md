@@ -26,8 +26,6 @@ MapNet2023 will be held November 22–24 in Dunedin, New Zealand, at the Univers
 - Associate Professor Vinzent Börner: GHPC Consulting and Services Pty Ltd, Australia.
     - _Past, present and future of high performance computing in animal breeding_
  
-**Confirmed Speakers**
- 
 - Dr Suzanne Rowe: Senior Scientist, Animal Genomics, AgResearch, Invermay.
     - _Using molecular phenotypes to lower global methane emissions_
 
