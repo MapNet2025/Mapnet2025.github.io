@@ -15,6 +15,12 @@ header:
 
 MapNet2023 will be held November 22–24 in Dunedin, New Zealand, at the University of Otago (22 November) and AgResearch Invermay (23-24 November).
 
+**Abstract deadline now extended until 5pm 1st November 2023**
+
+**Registratons close on the 6th November 2023**
+
+
+
 **Keynote speakers**
 
 - Professor Elinor Karlsson: Director, Vertebrate Genomics, Broad Institute of MIT and Harvard.
