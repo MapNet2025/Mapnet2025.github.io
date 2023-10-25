@@ -29,7 +29,7 @@ MapNet [registration](https://events.humanitix.com/mapnet-2023) is now open.
 
 Download: [abstract submission template](https://mapnet2023.github.io/assets/MapNet-Abstract-Template-2023.docx)
 
-- The deadline for abstract submission is 5pm on 25 October, 2023.
+- The deadline for abstract submission is 5pm on 1st November, 2023.
 - Please email your abstracts (using the template above) to: <a href="mailto:mapnet23@agresearch.co.nz?subject=MapNet23 abstract submission">mapnet23@agresearch.co.nz</a>
 
 
