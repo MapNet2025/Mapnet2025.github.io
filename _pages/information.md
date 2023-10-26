@@ -19,8 +19,7 @@ header:
 
 MapNet 2023 is being held in conjunction with the Genomics Aotearoa Annual Meeting, and 
 our first session on the afternoon of Wednesday 22 November will be shared with the 
-Genomics Aotearoa event, and will take place in the John Arnaud Bell lecture theatre on the University of 
-Otago campus.
+Genomics Aotearoa event, and will take place in the Auahi Ora room in the University Union, University of Otago.
 
 The Thursday and Friday MapNet sessions will be held in the Cullen Conference Room at AgResearch Invermay.
 
