@@ -52,7 +52,7 @@ MapNet2023 themes include primary sector genomics, bioinformatics, integrating i
 
 ## Sponsors
 
-[![BGI](https://github.com/MapNet2023/Mapnet2023.github.io/blob/main/assets/MGI%20logo.png)](https://www.bgi.com/global){:target="_blank"}
+[![BGI](../assets/MGI%20logo.png)](https://www.bgi.com/global){:target="_blank"}
 
 <span></span>
 
