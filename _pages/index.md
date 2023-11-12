@@ -38,10 +38,6 @@ Registrations have now closed.
 
 
 
-[Programme information](https://mapnet2023.github.io/programme/)
-
-[Registration and abstract submission](https://mapnet2023.github.io/register/)
-
 <!-- [**Click here for the conference programme**]()  (https://vuwgenomics.github.io/mapnet2019.github.io/pdfs/MapNet2019programme.pdf). -->
 
  <!-- **[Click here to register]**()(https://vuw.eventsair.com/mapnet-2019/mapnet2019). -->
