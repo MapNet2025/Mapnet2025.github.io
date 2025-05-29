@@ -1,7 +1,7 @@
 ---
 permalink: /
 Title: "Welcome to 20 years of MapNet"
-excerpt: "Lincoln, 22–24 November."
+excerpt: "Lincoln, 11–12 November."
 header:
     overlay_image: "/assets/banner.png"
     overlay_filter: "0"
