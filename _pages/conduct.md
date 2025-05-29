@@ -56,6 +56,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 - Shannon Clarke
 - Ken Dodds
 - Jeanne Jacobs
+- Alastair Lamont
 - Phillip Wilcox
 
 #### Adapted with permission from:
