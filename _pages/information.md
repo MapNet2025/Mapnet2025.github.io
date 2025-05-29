@@ -9,23 +9,24 @@ header:
 
 ## Key dates
 
+MapNet 11-12 November, 2025
+
+<!--
 | Deadline for abstract submission | 1 November, 2023 |
 | Registration closes | 6 November, 2023 |
 | MapNet | 22-24 November, 2023 | 
 |        | Start time: 1:00pm (22/11/23) | 
 |        | Finish time: 3:00pm (24/11/23) |
+-->
 
 ## Location
 
-MapNet 2023 is being held in conjunction with the Genomics Aotearoa Annual Meeting, and 
-our first session on the afternoon of Wednesday 22 November will be shared with the 
-Genomics Aotearoa event, and will take place in the Auahi Ora room in the University Union, University of Otago.
+MapNet 2025 is being held in the Fitzherbet Room, Plant and Food Lincoln.
 
-The Thursday and Friday MapNet sessions will be held in the Cullen Conference Room at AgResearch Invermay.
 
 ## Social Media
 
-If you are using X (a.k.a. the social media platform formerly known as Twitter), tag your conference posts #mapn23
+If you are using X (a.k.a. the social media platform formerly known as Twitter), tag your conference posts #mapn25
 
 Please respect the requests of speakers and conference attendees that ask or suggest not to be included in social media posts.
 
@@ -41,13 +42,14 @@ Please respect the requests of speakers and conference attendees that ask or sug
 
 ## Conference organising committee:
 - Rachael Ashby
+- Samantha Baldwin
 - Mik Black
+- Rebecca Bloomer
 - Rebecca Clarke
 - Shannon Clarke
 - Ken Dodds
 - Jeanne Jacobs
-- Jie Kang
-- Maddi Post
+- Alastair Lamont
 - Phillip Wilcox
 
 
