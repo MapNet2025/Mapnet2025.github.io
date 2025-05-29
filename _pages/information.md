@@ -52,4 +52,3 @@ Please respect the requests of speakers and conference attendees that ask or sug
 - Alastair Lamont
 - Phillip Wilcox
 
-
