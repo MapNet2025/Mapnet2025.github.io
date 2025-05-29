@@ -83,10 +83,9 @@ MapNet2025 themes include primary sector genomics, bioinformatics, integrating i
 
 #<span></span>
 
-#[![BeefLambGeneticsNZ](../assets/BLG_genetics.jpg)](https://beeflambnz.com/){:target="_blank"}-->
-
+#[![BeefLambGeneticsNZ](../assets/BLG_genetics.jpg)](https://beeflambnz.com/){:target="_blank"}
 #<span></span>
-
+-->
 
 
 
