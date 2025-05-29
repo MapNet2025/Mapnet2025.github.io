@@ -1,7 +1,7 @@
 ---
 permalink: /
-Title: "Welcome to the 2023 MapNet Meeting"
-excerpt: "Dunedin, 22–24 November."
+Title: "Welcome to 20 years of MapNet"
+excerpt: "Lincoln, 22–24 November."
 header:
     overlay_image: "/assets/banner.png"
     overlay_filter: "0"
@@ -11,29 +11,31 @@ header:
 
 <span></span>
 
-# Welcome to the 2023 MapNet meeting
+# Welcome to the 2025 MapNet meeting
 
-MapNet2023 will be held November 22–24 in Dunedin, New Zealand, at the University of Otago (22 November) and AgResearch Invermay (23-24 November).
+MapNet2025 will be held where it all started 20 years ago on the Plant and Food campus in Lincoln, 11th - 12th November 2025.
 
-Registrations have now closed. 
+#Registrations have now closed. 
 
-[**Click here for the conference programme**](https://github.com/MapNet2023/Mapnet2023.github.io/blob/main/assets/MapNet23_booklet.pdf)
+#[**Click here for the conference programme**](https://github.com/MapNet2023/Mapnet2023.github.io/blob/main/assets/MapNet23_booklet.pdf)
 
 
 
 **Keynote speakers**
 
-- Professor Elinor Karlsson: Director, Vertebrate Genomics, Broad Institute of MIT and Harvard.
-    - _The Future of Comparative Genomics: Finding Meaning in DNA Sequence in a Million Genome Age_
+To be confirmed
 
-- Professor Alison Van Eenennaam: Animal Genomics and Biotechnology, University of California, Davis.
-    - _Global Status of Gene Edited Food Animals and their Products_
+#- Professor Elinor Karlsson: Director, Vertebrate Genomics, Broad Institute of MIT and Harvard.
+#    - _The Future of Comparative Genomics: Finding Meaning in DNA Sequence in a Million Genome Age_
+
+#- Professor Alison Van Eenennaam: Animal Genomics and Biotechnology, University of California, Davis.
+#    - _Global Status of Gene Edited Food Animals and their Products_
   
-- Associate Professor Vinzent Börner: GHPC Consulting and Services Pty Ltd, Australia.
-    - _Past, present and future of high performance computing in animal breeding_
+#- Associate Professor Vinzent Börner: GHPC Consulting and Services Pty Ltd, Australia.
+#    - _Past, present and future of high performance computing in animal breeding_
  
-- Dr Suzanne Rowe: Senior Scientist, Animal Genomics, AgResearch, Invermay.
-    - _Using molecular phenotypes to lower global methane emissions_
+#- Dr Suzanne Rowe: Senior Scientist, Animal Genomics, AgResearch, Invermay.
+#    - _Using molecular phenotypes to lower global methane emissions_
 
 
 
@@ -42,47 +44,47 @@ Registrations have now closed.
 
  <!-- **[Click here to register]**()(https://vuw.eventsair.com/mapnet-2019/mapnet2019). -->
 
-## MapNet 2023
+## MapNet 2025
 
 MapNet2023 themes include primary sector genomics, bioinformatics, integrating indigenous genomics into research and teaching, methodology advances, and ecological & evolutionary genomics. The program and times will be updated closer to the meeting date and posted here as a pdf.
 
 ## Sponsors
 
-[![BGI](../assets/MGI%20logo.png)](https://www.bgi.com/global){:target="_blank"}
+#[![BGI](../assets/MGI%20logo.png)](https://www.bgi.com/global){:target="_blank"}
 
-<span></span>
+#<span></span>
 
-[![illumina](../assets/ILLUMINA_LOGO_CMYK_new.jpg)](https://www.illumina.com/){:target="_blank"}
+#[![illumina](../assets/ILLUMINA_LOGO_CMYK_new.jpg)](https://www.illumina.com/){:target="_blank"}
 
-<span></span>
+#<span></span>
 
-[![GenomNZ](../assets/GenomNZ%20(RGB).jpg)](https://www.agresearch.co.nz/partnering-with-us/products-and-services/genomnz/){:target="_blank"}
+#[![GenomNZ](../assets/GenomNZ%20(RGB).jpg)](https://www.agresearch.co.nz/partnering-with-us/products-and-services/genomnz/){:target="_blank"}
 
-<span></span>
+#<span></span>
 
-[![decode science](../assets/Decode-stacked-colour-RGB.jpg)](https://decodescience.co.nz/){:target="_blank"}
+#[![decode science](../assets/Decode-stacked-colour-RGB.jpg)](https://decodescience.co.nz/){:target="_blank"}
 
-<span></span>
+#<span></span>
 
 [![AgResearch](../assets/agresearch-logo-600px.png)](https://www.agresearch.co.nz/){:target="_blank"}
 
-<span></span>
+#<span></span>
 
 [![UniversityOfOtago](../assets/university-of-otago.jpg)](https://www.otago.ac.nz.nz){:target="_blank"}
 
 <span></span>
 
-[![GenomicsAotearoa](../assets/GA-Wide-Colour-1200px.jpg)](https://www.genomics-aotearoa.org.nz){:target="_blank"}
+#[![GenomicsAotearoa](../assets/GA-Wide-Colour-1200px.jpg)](https://www.genomics-aotearoa.org.nz){:target="_blank"}
 
-<span></span>
+#<span></span>
 
-[![AbacusBio](../assets/abacus.jpg)](https://abacusbio.com/){:target="_blank"}
+#[![AbacusBio](../assets/abacus.jpg)](https://abacusbio.com/){:target="_blank"}
 
-<span></span>
+#<span></span>
 
-[![BeefLambGeneticsNZ](../assets/BLG_genetics.jpg)](https://beeflambnz.com/){:target="_blank"}
+#[![BeefLambGeneticsNZ](../assets/BLG_genetics.jpg)](https://beeflambnz.com/){:target="_blank"}
 
-<span></span>
+#<span></span>
 
 
 
