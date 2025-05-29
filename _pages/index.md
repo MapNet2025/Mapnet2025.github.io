@@ -49,9 +49,11 @@ To be confirmed
 
 MapNet2025 themes include primary sector genomics, bioinformatics, integrating indigenous genomics into research and teaching, methodology advances, and ecological & evolutionary genomics. The program and times will be updated closer to the meeting date and posted here as a pdf.
 
-## Sponsors
+[![poster](../assets/MapNet25_PosterV1.png)]{:target="_blank"}
 
-<!--#[![BGI](../assets/MGI%20logo.png)](https://www.bgi.com/global){:target="_blank"}
+<!--## Sponsors
+
+#[![BGI](../assets/MGI%20logo.png)](https://www.bgi.com/global){:target="_blank"}
 
 #<span></span>
 
@@ -65,7 +67,7 @@ MapNet2025 themes include primary sector genomics, bioinformatics, integrating i
 
 #[![decode science](../assets/Decode-stacked-colour-RGB.jpg)](https://decodescience.co.nz/){:target="_blank"}
 
-#<span></span>-->
+#<span></span>
 
 [![AgResearch](../assets/agresearch-logo-600px.png)](https://www.agresearch.co.nz/){:target="_blank"}
 
