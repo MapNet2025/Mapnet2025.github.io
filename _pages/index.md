@@ -69,7 +69,7 @@ MapNet2025 themes include primary sector genomics, bioinformatics, integrating i
 
 [![AgResearch](../assets/agresearch-logo-600px.png)](https://www.agresearch.co.nz/){:target="_blank"}
 
-#<span></span>
+<span></span>
 
 [![UniversityOfOtago](../assets/university-of-otago.jpg)](https://www.otago.ac.nz.nz){:target="_blank"}
 
