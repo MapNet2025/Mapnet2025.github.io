@@ -19,7 +19,7 @@ Participants engaging in harassing behaviour may be sanctioned in any way organi
  
 In addition, if the harassing behaviour is part of a sponsor's display or a talk the display will be removed or the talk stopped without refund of the sponsorship.
 
-**MapNet 2023 participants agree to**:
+**MapNet 2025 participants agree to**:
 
 - Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees.
 - Refrain from demeaning, discriminatory, or harassing behaviour and speech. Harassment includes, but is not limited to:
@@ -49,13 +49,13 @@ If you are being harassed, notice that someone else is being harassed, or have a
 ## MapNet team
 
 - Rachael Ashby
+- Samantha Baldwin
 - Mik Black
+- Rebecca Bloomer
 - Rebecca Clarke
 - Shannon Clarke
 - Ken Dodds
 - Jeanne Jacobs
-- Jie Kang
-- Maddi Post
 - Phillip Wilcox
 
 #### Adapted with permission from:
