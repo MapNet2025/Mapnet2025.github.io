@@ -1,8 +1,8 @@
 MapNet 2023:
-  name             : "MapNet 2023"
+  name             : "MapNet 2025"
   avatar           : "/assets/mapnet.jpg"
-  bio              : 'November 22–24<br>University of Otago<br>AgResearch'
-  email            : # "mapnet2019@vuw.ac.nz"
+  bio              : 'November 11–12'#<br>University of Otago<br>'
+  email            : "mapnet2025@agresearch.co.nz"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
