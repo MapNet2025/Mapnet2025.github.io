@@ -54,6 +54,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 - Rebecca Bloomer
 - Rebecca Clarke
 - Shannon Clarke
+- Ting-Hsuan Chen
 - Ken Dodds
 - Jeanne Jacobs
 - Alastair Lamont
