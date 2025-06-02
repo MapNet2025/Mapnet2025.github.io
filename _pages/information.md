@@ -21,7 +21,7 @@ MapNet 11-12 November, 2025
 
 ## Location
 
-MapNet 2025 is being held in the Fitzherbet Room, Plant and Food Lincoln.
+MapNet 2025 is being held in the Fitzgerald Room, Plant and Food Lincoln.
 
 
 ## Social Media
