@@ -45,6 +45,7 @@ Please respect the requests of speakers and conference attendees that ask or sug
 - Samantha Baldwin
 - Mik Black
 - Rebecca Bloomer
+- Ting-Hsuan Chen
 - Rebecca Clarke
 - Shannon Clarke
 - Ken Dodds
