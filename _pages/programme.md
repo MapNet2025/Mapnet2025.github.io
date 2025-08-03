@@ -12,12 +12,12 @@ header:
 [**Click here for the conference programme**](https://github.com/MapNet2023/Mapnet2023.github.io/blob/main/assets/MapNet23_booklet.pdf)
 
 Keynote speakers<br/>
-- Professor Elinor Karlsson: Director, Vertebrate Genomics, Broad Institute of MIT and Harvard.
-    - _The Future of Comparative Genomics: Finding Meaning in DNA Sequence in a Million Genome Age_ 
-- Professor Alison Van Eenennaam: Animal Genomics and Biotechnology, University of California, Davis.
-    - _Global Status of Gene Edited Food Animals and their Products_ 
-- Associate Professor Vinzent Börner: GHPC Consulting and Services Pty Ltd, Australia.
-    - _Past, present and future of high performance computing in animal breeding_
+- Professor Brian Cullis: University of Wollongong.
+    - _Talk Title_ 
+- Professor Anna Santure: Univeristy of Auckland.
+    - _Leveraging two decades of monitoring to map inbreeding depression in the threatened hihi (stitchbird; _Notiomystis cincta_)_ 
+- Timothy Bilton: BSI - AgResearch.
+    - _Talk Title_
 
 Topics will include:
 - Primary sector genotyping and breeding
