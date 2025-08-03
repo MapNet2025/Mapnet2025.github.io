@@ -11,7 +11,7 @@ header:
 
 MapNet [registration]([https://events.humanitix.com/mapnet2025]) is now open. 
 
-- Registration for MapNet 2025 is $150 NZD + Booking Fee* + GST. This includes dinner on Tuesday 11th November at The Lab in Lincoln.
+- Registration for MapNet 2025 is $166 NZD + Booking Fee* + GST. This includes dinner on Tuesday 11th November at The Lab in Lincoln.
 
   *Note profits from booking fees taken through Humanitix are donated to charitable organisations. 
 
@@ -29,8 +29,8 @@ MapNet [registration]([https://events.humanitix.com/mapnet2025]) is now open.
 
 Download: [abstract submission template](https://mapnet2023.github.io/assets/MapNet-Abstract-Template-2023.docx)
 
-- The deadline for abstract submission is 5pm on 1st November, 2023.
-- Please email your abstracts (using the template above) to: <a href="mailto:mapnet23@agresearch.co.nz?subject=MapNet23 abstract submission">mapnet23@agresearch.co.nz</a>
+- The deadline for abstract submission is 5pm on 14th October, 2025.
+- Please email your abstracts (using the template above) to: <a href="mailto:mapnet23@agresearch.co.nz?subject=MapNet23 abstract submission">MapNet25@agresearch.co.nz</a>
 
 
 
