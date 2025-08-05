@@ -9,10 +9,6 @@ header:
 
 # Registration
 
-MapNet [registration]([https://events.humanitix.com/mapnet2025]) is now open. 
-
-Registration link : https://events.humanitix.com/mapnet2025
-
 MapNet [registration](https://events.humanitix.com/mapnet2025) is now open.
 
 **Registration link:** [https://events.humanitix.com/mapnet2025](https://events.humanitix.com/mapnet2025)
