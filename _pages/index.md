@@ -23,7 +23,14 @@ MapNet2025 will be held where it all started 20 years ago on the Plant and Food 
 
 **Keynote speakers**
 
-To be confirmed
+We are pleased to announce our 2025 keynote speakers:
+
+- Professor Brian Cullis: University of Wollongong.
+
+- Professor Anna Santure: Univeristy of Auckland.
+
+- Timothy Bilton: BSI - AgResearch.
+
 
 <!--
 - Professor Elinor Karlsson: Director, Vertebrate Genomics, Broad Institute of MIT and Harvard.
@@ -51,7 +58,31 @@ MapNet2025 themes include primary sector genomics, bioinformatics, integrating i
 
 ![poster](../assets/MapNet25_PosterV1.png)
 
-<!--## Sponsors
+## Sponsors
+
+#[![GenomNZ](../assets/GenomNZ%20(RGB).jpg)](https://www.agresearch.co.nz/partnering-with-us/products-and-services/genomnz/){:target="_blank"}
+
+<span></span>
+
+#[![GenomicsAotearoa](../assets/GA-Wide-Colour-1200px.jpg)](https://www.genomics-aotearoa.org.nz){:target="_blank"}
+
+<span></span>
+
+[![BSI - AgResearch](../assets/AgResearch_BSI_Wide_RGB.png)](https://www.agresearch.co.nz/){:target="_blank"}
+
+<span></span>
+
+[![BSI - Plant and Food Research](../assets/BSI-PFR_logo.png)](https://www.agresearch.co.nz/){:target="_blank"}
+
+<span></span>
+
+[![UniversityOfOtago](../assets/university-of-otago.jpg)](https://www.otago.ac.nz.nz){:target="_blank"}
+
+
+-->
+
+
+<!--## Sponsors 2023
 
 #[![BGI](../assets/MGI%20logo.png)](https://www.bgi.com/global){:target="_blank"}
 
