@@ -32,6 +32,14 @@ BLUP Methods Workshop: 10 November, 2025
 
 Consulting Māori communities on gene technology research Workshop: 13 November, 2025
 
+## Travel Grants
+
+We are pleased to announce we will be offering both student and early career grants this year.
+
+Early career grants are defined as within 7 years post graduation from last qualification.
+
+To apply please indicate you wish to be considered when submitting an abstract, they will be awared based on quality of the abstract.
+
 ## Location
 
 MapNet 2025 is being held in the Fitzgerald Room, Plant and Food Lincoln.
