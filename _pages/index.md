@@ -17,9 +17,9 @@ MapNet2025 will be held where it all started 20 years ago on the Plant and Food 
 
 Two workshops will be run in conjunction with this years MapNet
 
-    -BLUP Methods Workshop: 10 November, 2025
+- BLUP Methods Workshop: 10 November, 2025
 
-    -Consulting Māori communities on gene technology research Workshop: 13 November, 2025
+- Consulting Māori communities on gene technology research Workshop: 13 November, 2025
 
 <!--Registrations have now closed. 
 
