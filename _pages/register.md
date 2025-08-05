@@ -25,7 +25,7 @@ We are pleased to announce we will be offering both student and early career gra
 
 Early career grants are defined as within 7 years post graduation from last qualification.
 
-To apply please indicate you wish to be considered when submitting an abstract, they will be awarded based on quality of the abstract.
+To apply please submit a short paragrpah about why you wish to attend MapNet and indicate if you are applying for a student or early career grant when submitting an abstract. Travel grants will be awarded based on quality of the abstract and reason for wanting to attend MapNet.
 
 <!--
 - MapNet registration is now open 
