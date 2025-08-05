@@ -60,11 +60,11 @@ MapNet2025 themes include primary sector genomics, bioinformatics, integrating i
 
 ## Sponsors
 
-#[![GenomNZ](../assets/GenomNZ%20(RGB).jpg)](https://www.agresearch.co.nz/partnering-with-us/products-and-services/genomnz/){:target="_blank"}
+[![GenomNZ](../assets/GenomNZ%20(RGB).jpg)](https://www.agresearch.co.nz/partnering-with-us/products-and-services/genomnz/){:target="_blank"}
 
 <span></span>
 
-#[![GenomicsAotearoa](../assets/GA-Wide-Colour-1200px.jpg)](https://www.genomics-aotearoa.org.nz){:target="_blank"}
+[![GenomicsAotearoa](../assets/GA-Wide-Colour-1200px.jpg)](https://www.genomics-aotearoa.org.nz){:target="_blank"}
 
 <span></span>
 
@@ -77,8 +77,7 @@ MapNet2025 themes include primary sector genomics, bioinformatics, integrating i
 <span></span>
 
 [![UniversityOfOtago](../assets/university-of-otago.jpg)](https://www.otago.ac.nz.nz){:target="_blank"}
-
-
+<span></span>
 -->
 
 
