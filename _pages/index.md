@@ -60,23 +60,23 @@ MapNet2025 themes include primary sector genomics, bioinformatics, integrating i
 
 ## Sponsors
 
-[![GenomNZ](../assets/GenomNZ%20(RGB).jpg)](https://www.agresearch.co.nz/partnering-with-us/products-and-services/genomnz/){:target="_blank"}
+[![GenomNZ](../assets/GenomNZ%20(RGB).jpg)](https://www.agresearch.co.nz/partnering-with-us/products-and-services/genomnz/)
 
 <span></span>
 
-[![GenomicsAotearoa](../assets/GA-Wide-Colour-1200px.jpg)](https://www.genomics-aotearoa.org.nz){:target="_blank"}
+[![GenomicsAotearoa](../assets/GA-Wide-Colour-1200px.jpg)](https://www.genomics-aotearoa.org.nz)
 
 <span></span>
 
-[![BSI - AgResearch](../assets/AgResearch_BSI_Wide_RGB.jpg)](https://www.agresearch.co.nz/){:target="_blank"}
+[![BSI - AgResearch](../assets/AgResearch_BSI_Wide_RGB.jpg)](https://www.agresearch.co.nz/)
 
 <span></span>
 
-[![BSI - Plant and Food Research](../assets/BSI-PFR_logo.png)](https://www.agresearch.co.nz/){:target="_blank"}
+[![BSI - Plant and Food Research](../assets/BSI-PFR_logo.png)](https://www.agresearch.co.nz/)
 
 <span></span>
 
-[![UniversityOfOtago](../assets/university-of-otago.jpg)](https://www.otago.ac.nz.nz){:target="_blank"}
+[![UniversityOfOtago](../assets/university-of-otago.jpg)](https://www.otago.ac.nz.nz)
 <span></span>
 -->
 
