@@ -17,6 +17,8 @@ MapNet [registration]([https://events.humanitix.com/mapnet2025]) is now open.
 
     *Note profits from booking fees taken through Humanitix are donated to charitable organisations.
 
+Registration closes 21 October, 2025.
+
 ## Travel Grants
 
 We are pleased to announce we will be offering both student and early career grants this year.
