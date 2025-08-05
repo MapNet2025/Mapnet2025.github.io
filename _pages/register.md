@@ -15,7 +15,7 @@ MapNet [registration]([https://events.humanitix.com/mapnet2025]) is now open.
 
   *Note profits from booking fees taken through Humanitix are donated to charitable organisations.
 
-  Humantix website link : https://events.humanitix.com/mapnet2025
+  Registration link : https://events.humanitix.com/mapnet2025
 
 ## Travel Grants
 
