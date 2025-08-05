@@ -9,11 +9,18 @@ header:
 
 ## Key dates
 
-MapNet 11-12 November, 2025
+MapNet Meeting 11-12 November, 2025
+
+Workshops:
+BLUP Methods Workshop 10 November, 2025
+Consulting Māori communities on gene technology research Workshop 13 November, 2025
+
+| Deadline for abstract submission | 14 October, 2025 |
+| Registration closes | 21 October, 2025 |
 
 <!--
-| Deadline for abstract submission | 1 November, 2023 |
-| Registration closes | 6 November, 2023 |
+| Deadline for abstract submission | 14 October, 2023 |
+| Registration closes | 21 October, 2023 |
 | MapNet | 22-24 November, 2023 | 
 |        | Start time: 1:00pm (22/11/23) | 
 |        | Finish time: 3:00pm (24/11/23) |
