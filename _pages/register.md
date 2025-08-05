@@ -23,7 +23,7 @@ We are pleased to announce we will be offering both student and early career gra
 
 Early career grants are defined as within 7 years post graduation from last qualification.
 
-To apply please indicate you wish to be considered when submitting an abstract, they will be awared based on quality of the abstract.
+To apply please indicate you wish to be considered when submitting an abstract, they will be awarded based on quality of the abstract.
 
 <!--
 - MapNet registration is now open 
