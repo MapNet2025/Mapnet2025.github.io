@@ -68,7 +68,7 @@ MapNet2025 themes include primary sector genomics, bioinformatics, integrating i
 
 <span></span>
 
-[![BSI - AgResearch](../assets/AgResearch_BSI_Wide_RGB.png)](https://www.agresearch.co.nz/){:target="_blank"}
+[![BSI - AgResearch](../assets/AgResearch_BSI_Wide_RGB.jpg)](https://www.agresearch.co.nz/){:target="_blank"}
 
 <span></span>
 
