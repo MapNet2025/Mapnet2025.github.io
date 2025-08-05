@@ -29,6 +29,14 @@ Consulting Māori communities on gene technology research Workshop 13 November, 
 |        | Finish time: 3:00pm (24/11/23) |
 -->
 
+## Workshops
+
+Two workshops will be run in conjunction with this years MapNet
+
+BLUP Methods Workshop: 10 November, 2025
+
+Consulting Māori communities on gene technology research Workshop: 13 November, 2025
+
 ## Location
 
 MapNet 2025 is being held in the Fitzgerald Room, Plant and Food Lincoln.
