@@ -27,7 +27,7 @@ We are pleased to announce our 2025 keynote speakers:
 
 - Professor Brian Cullis: University of Wollongong.
 
-- Professor Anna Santure: Univeristy of Auckland.
+- Professor Anna Santure: University of Auckland.
 
 - Timothy Bilton: BSI - AgResearch.
 
