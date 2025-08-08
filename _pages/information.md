@@ -42,7 +42,7 @@ To apply please indicate you wish to be considered when submitting an abstract, 
 
 ## Location
 
-MapNet 2025 is being held in the Fitzgerald Room, Plant and Food Lincoln.
+MapNet 2025 is being held in the Fitzgerald Room, BSI - Plant and Food Lincoln.
 
 
 ## Social Media
