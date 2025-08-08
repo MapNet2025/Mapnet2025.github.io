@@ -15,11 +15,13 @@ header:
 
 MapNet2025 will be held where it all started 20 years ago on the Plant and Food campus in Lincoln, 11th - 12th November 2025.
 
-Two workshops will be run in conjunction with this years MapNet
+Two workshops will be run in conjunction with this years MapNet.
 
 - BLUP Methods Workshop: 10th November, 2025
 
 - Consulting Māori communities on gene technology research Workshop: 13th November, 2025
+
+- See [the Information page](https://mapnet2025.github.io/info/#workshops) for details on these.
 
 <!--Registrations have now closed. 
 
