@@ -28,9 +28,17 @@ MapNet Meeting 11-12 November, 2025
 
 Two workshops will be run in conjunction with this years MapNet
 
-BLUP Methods Workshop: 10 November, 2025
+### BLUP Methods Workshop: 10 November, 2025
 
-Consulting Māori communities on gene technology research Workshop: 13 November, 2025
+This workshop will introduce and go through the statistical methodology of Best Linear Unbiased Prediction, widely used to evaluate genetic merit. The methods pedigree BLUP (pBLUP), genomic BLUP (GBLUP) and single-step genomic BLUP (ssGBLUP) will be covered together with coding examples.
+
+DWReml software may also be included, an upcoming free-to-use version of ASReml presented as an R package.
+
+A laptop will be required for this workshop.
+
+### Consulting Māori communities on gene technology research Workshop: 13 November, 2025
+
+This workshop is about improving competencies in specific areas: why consult with Māori, what does effective consultation consist of? Māori perspectives of gene technologies and why these matters. What is codesign and how does can it apply to working with Māori communities in gene technology related research?
 
 ## Travel Grants
 
