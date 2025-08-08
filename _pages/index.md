@@ -62,7 +62,7 @@ We are pleased to announce our 2025 keynote speakers:
 
 MapNet2025 themes include primary sector genomics, bioinformatics, integrating indigenous genomics into research and teaching, methodology advances, and ecological & evolutionary genomics. The program and times will be updated closer to the meeting date and posted here as a pdf.
 
-![poster](../assets/MapNet Poster with Keynotes.png)
+![poster](../assets/MapNet_Poster_with_Keynotes.png)
 
 ## Sponsors
 
