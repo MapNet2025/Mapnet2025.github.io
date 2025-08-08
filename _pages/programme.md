@@ -13,7 +13,7 @@ header:
 
 Keynote speakers<br/>
 - Professor Brian Cullis: University of Wollongong.
-    - _Talk Title_ 
+    - _DWREML: a computationally efficient R package for fitting aspirational mixed models in genetic improvement programs_ 
 - Professor Anna Santure: Univeristy of Auckland.
     - _Leveraging two decades of monitoring to map inbreeding depression in the threatened hihi (stitchbird; _Notiomystis cincta_)_ 
 - Timothy Bilton: BSI - AgResearch.
