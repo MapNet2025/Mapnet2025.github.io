@@ -29,6 +29,8 @@ Early career grants are defined as within 7 years post graduation from last qual
 
 To apply please submit a short paragrpah about why you wish to attend MapNet and indicate if you are applying for a student or early career grant when submitting an abstract. Travel grants will be awarded based on quality of the abstract and reason for wanting to attend MapNet.
 
+Travel grants close on 5pm 1st October.
+
 <!--
 - MapNet registration is now open 
 - Registration for MapNet 2019 is $130 full and $100 student
