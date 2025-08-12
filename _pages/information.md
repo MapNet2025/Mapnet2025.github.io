@@ -48,6 +48,8 @@ Early career grants are defined as within 7 years post graduation from last qual
 
 To apply please indicate you wish to be considered when submitting an abstract, they will be awared based on quality of the abstract.
 
+Travel grants close on 5pm 1st October.
+
 ## Location
 
 MapNet 2025 is being held in the Fitzgerald Room, BSI - Plant and Food Lincoln.
