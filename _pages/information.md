@@ -11,7 +11,7 @@ header:
 
 MapNet Meeting 11-12 November, 2025
 
-| Travel Grants closes |  5pm 1 October, 2025 |
+| Travel Grants close |  5pm 1 October, 2025 |
 
 | Deadline for abstract submission | 14 October, 2025 |
 
