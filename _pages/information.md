@@ -27,7 +27,9 @@ MapNet Meeting 11-12 November, 2025
 
 ## Workshops
 
-Two workshops will be run in conjunction with this years MapNet
+Two workshops will be run in conjunction with this years MapNet.
+
+If you are interested in them, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSceL5QUFiVxnpROrhDmBiXXW-57mx7_RpNCkrrXiR7bYsiu8w/viewform?usp=header) to help determine the level and material of these workshops.
 
 ### BLUP Methods Workshop: 10 November, 2025
 
