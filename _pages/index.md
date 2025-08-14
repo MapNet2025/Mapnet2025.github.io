@@ -76,11 +76,14 @@ MapNet2025 themes include primary sector genomics, bioinformatics, integrating i
 
 <span></span>
 
+[![Bragato](../assets/BRI preferred logo.jpg)](https://bri.co.nz/)
+<span></span>
+
 [![BSI - AgResearch](../assets/AgResearch_BSI_Wide_RGB.jpg)](https://www.agresearch.co.nz/)
 
 <span></span>
 
-[![BSI - Plant and Food Research](../assets/BSI-PFR_logo.png)](https://www.agresearch.co.nz/)
+[![BSI - Plant and Food Research](../assets/BSI-PFR_logo.png)](https://www.plantandfood.com/en-nz/)
 
 <span></span>
 
