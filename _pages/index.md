@@ -87,7 +87,7 @@ MapNet2025 themes include primary sector genomics, bioinformatics, integrating i
 
 <span></span>
 
-[![UniversityOfOtago](../assets/university-of-otago.jpg)](https://www.otago.ac.nz.nz)
+[![UniversityOfOtago](../assets/University-of-Otago-stacked-wordmark-image-1880.jpg)](https://www.otago.ac.nz.nz)
 <span></span>
 
 
