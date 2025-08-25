@@ -81,7 +81,7 @@ MapNet2025 themes include primary sector genomics, bioinformatics, integrating i
 
 [![illumina](../assets/illumina-full-logo-warm-rgb-pumpkin-black.jpg)](https://www.illumina.com/)
 
-#<span></span>
+<span></span>
 
 [![BSI - AgResearch](../assets/AgResearch_BSI_Wide_RGB.jpg)](https://www.agresearch.co.nz/)
 
