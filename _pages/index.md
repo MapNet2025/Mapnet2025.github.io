@@ -79,6 +79,10 @@ MapNet2025 themes include primary sector genomics, bioinformatics, integrating i
 [![Bragato](../assets/BRI_preferred_logo.jpg)](https://bri.co.nz/)
 <span></span>
 
+[![illumina](../assets/illumina-full-logo-warm-rgb-pumpkin-black.jpg)](https://www.illumina.com/){:target="_blank"}
+
+#<span></span>
+
 [![BSI - AgResearch](../assets/AgResearch_BSI_Wide_RGB.jpg)](https://www.agresearch.co.nz/)
 
 <span></span>
@@ -98,7 +102,7 @@ MapNet2025 themes include primary sector genomics, bioinformatics, integrating i
 
 #<span></span>
 
-#[![illumina](../assets/ILLUMINA_LOGO_CMYK_new.jpg)](https://www.illumina.com/){:target="_blank"}
+#[![illumina](../assets/illumina-full-logo-warm-rgb-pumpkin-black.jpg)](https://www.illumina.com/){:target="_blank"}
 
 #<span></span>
 
