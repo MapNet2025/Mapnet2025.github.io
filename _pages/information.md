@@ -31,6 +31,8 @@ Two workshops will be run in conjunction with this years MapNet.
 
 If you are interested in them, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSceL5QUFiVxnpROrhDmBiXXW-57mx7_RpNCkrrXiR7bYsiu8w/viewform?usp=header) to help determine the level and material of these workshops.
 
+Please note that this form does not book a slot at these workshops - this can be done through the [registration link](https://events.humanitix.com/mapnet2025).
+
 ### BLUP Methods Workshop: 10 November, 2025
 
 This workshop will introduce and go through the statistical methodology of Best Linear Unbiased Prediction, widely used to evaluate genetic merit. The methods pedigree BLUP (pBLUP), genomic BLUP (GBLUP) and single-step genomic BLUP (ssGBLUP) will be covered together with coding examples.
