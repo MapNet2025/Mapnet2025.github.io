@@ -43,6 +43,8 @@ A laptop will be required for this workshop.
 
 It will run from 8:45am to 5pm.
 
+[Workshop Outline](../pdfs/BCoutline.pdf)
+
 ### Consulting Māori communities on gene technology research Workshop: 13 November, 2025
 
 This workshop is about improving competencies in specific areas: why consult with Māori, what does effective consultation consist of? Māori perspectives of gene technologies and why these matters. What is codesign and how does can it apply to working with Māori communities in gene technology related research?
