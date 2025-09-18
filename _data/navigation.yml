@@ -1,8 +1,10 @@
 main:
   #  - title: "Programme"
   #    url: /programme/
-    - title: "Registration and abstract submission"
+    - title: "Register"
       url: /register/
+    - title: "Abstracts"
+      url: /abstracts/
     - title: "Travel Grants"
       url: /travel grants/
     - title: "Information"
