@@ -21,15 +21,6 @@ MapNet [registration](https://events.humanitix.com/mapnet2025) is now open.
 
 Registration closes 21 October, 2025.
 
-## Travel Grants
-
-We are pleased to announce we will be offering both student and early career grants this year.
-
-Early career grants are defined as within 7 years post graduation from last qualification.
-
-To apply please submit a short paragraph about why you wish to attend MapNet and indicate if you are applying for a student or early career grant when submitting an abstract. Travel grants will be awarded based on quality of the abstract and reason for wanting to attend MapNet.
-
-Travel grants close on 5pm 1st October.
 
 <!--
 - MapNet registration is now open 
