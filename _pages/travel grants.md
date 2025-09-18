@@ -1,5 +1,5 @@
 ---
-permalink: /travel_grants/
+permalink: /travel grants/
 header:
     cta_label: False
     cta_url: False
