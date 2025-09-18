@@ -1,17 +1,17 @@
 main:
   #  - title: "Programme"
   #    url: /programme/
-    - title: "Register"
-      url: /register/
-    - title: "Abstracts"
-      url: /abstracts/
-    - title: "Travel Grants"
-      url: /travel grants/
-    - title: "Information"
+   - title: "Information"
       url: /info/
-    - title: "Conduct"
-      url: /conduct/
-    - title: "About"
+   - title: "Register"
+      url: /register/
+   - title: "Abstracts"
+      url: /abstracts/
+   - title: "Travel Grants"
+      url: /travel grants/
+   - title: "About"
       url: /about/
-    - title: "Contact"
+   - title: "Contact"
       url: /contact/
+   - title: "Conduct"
+      url: /conduct/
