@@ -11,6 +11,8 @@ header:
 
 Two workshops will be run in conjunction with this years MapNet.
 
+Each workshop is limited to 30 places.
+
 If you are interested in them, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSceL5QUFiVxnpROrhDmBiXXW-57mx7_RpNCkrrXiR7bYsiu8w/viewform?usp=header) to help determine the level and material of these workshops.
 
 Please note that this form does not book a slot at these workshops - this can be done through the [registration link](https://events.humanitix.com/mapnet2025).
