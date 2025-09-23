@@ -21,7 +21,7 @@ Two workshops will be run in conjunction with this years MapNet.
 
 - Consulting Māori communities on gene technology research Workshop: 13th November, 2025
 
-- See [the Information page](https://mapnet2025.github.io/info/#workshops) for details on these.
+- See [the Workshops page](https://mapnet2025.github.io/workshops) for details on these.
 
 <!--Registrations have now closed. 
 
