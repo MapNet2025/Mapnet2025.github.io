@@ -9,6 +9,8 @@ main:
       url: /abstracts/
    - title: "Travel Grants"
       url: /travel grants/
+    - title: "Workshops"
+      url: /workshops/
    - title: "About"
       url: /about/
    - title: "Contact"
