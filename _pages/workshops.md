@@ -1,11 +1,11 @@
 ---
 permalink: /workshops/
 header:
-    cta_label: False
-    cta_url: False
+    cta_label: false
+    cta_url: false
 ---
 
-<span></span>
+
 
 # Workshops
 
