@@ -9,6 +9,8 @@ header:
 
 ## Travel Grants
 
+**Please note travel grants have now closed.** 
+
 We are pleased to announce we will be offering both student and early career grants this year.
 
 Early career grants are defined as within 7 years post graduation from last qualification.
