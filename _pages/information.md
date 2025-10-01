@@ -11,7 +11,7 @@ header:
 
 MapNet Meeting 11-12 November, 2025
 
-| Travel Grants close |  5pm 1 October, 2025 |
+| Travel Grants close |  Now closed. |
 
 | Deadline for abstract submission | 14 October, 2025 |
 
@@ -25,15 +25,6 @@ MapNet Meeting 11-12 November, 2025
 |        | Finish time: 3:00pm (24/11/23) |
 -->
 
-## Travel Grants
-
-We are pleased to announce we will be offering both student and early career grants this year.
-
-Early career grants are defined as within 7 years post graduation from last qualification.
-
-To apply please indicate you wish to be considered when submitting an [abstract](https://mapnet2025.github.io/abstracts), they will be awarded based on quality of the abstract.
-
-Travel grants close on 5pm 1st October.
 
 ## Location
 
