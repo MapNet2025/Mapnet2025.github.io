@@ -40,7 +40,7 @@ We are pleased to announce our 2025 keynote speakers:
     - _Leveraging two decades of monitoring to map inbreeding depression in the threatened hihi (stitchbird; Notiomystis cincta)"_
       
 - Dr Timothy Bilton: BSI - AgResearch.
-    - _A new era of genomic prediction for the primary industries: Genomics for all, phenotyping at scale _
+    - _A new era of genomic prediction for the primary industries: Genomics for all, phenotyping at scale_
 
 <!--
 - Professor Elinor Karlsson: Director, Vertebrate Genomics, Broad Institute of MIT and Harvard.
