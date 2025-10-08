@@ -34,11 +34,13 @@ Two workshops will be run in conjunction with this years MapNet.
 We are pleased to announce our 2025 keynote speakers:
 
 - Professor Brian Cullis: University of Wollongong.
+    - _DWREML: a computationally efficient R package for fitting aspirational mixed models in genetic improvement programs_
 
 - Associate Professor Anna Santure: University of Auckland.
-
+    - _Leveraging two decades of monitoring to map inbreeding depression in the threatened hihi (stitchbird; Notiomystis cincta)"_
+      
 - Dr Timothy Bilton: BSI - AgResearch.
-
+    - _A new era of genomic prediction for the primary industries: Genomics for all, phenotyping at scale _
 
 <!--
 - Professor Elinor Karlsson: Director, Vertebrate Genomics, Broad Institute of MIT and Harvard.
