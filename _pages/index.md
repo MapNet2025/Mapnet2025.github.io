@@ -12,8 +12,12 @@ header:
 <span></span>
 
 # Welcome to the 2025 MapNet meeting
-
 MapNet2025 will be held where it all started 20 years ago on the Plant and Food campus in Lincoln, 11th - 12th November 2025.
+
+MapNet2025 themes include primary sector genomics, bioinformatics, integrating indigenous genomics into research and teaching, methodology advances, and ecological & evolutionary genomics. The program and times will be updated closer to the meeting date and posted here as a pdf.
+
+![poster](../assets/MapNet_poster_website_version.png)
+
 
 Two workshops will be run in conjunction with this years MapNet.
 
@@ -62,11 +66,7 @@ We are pleased to announce our 2025 keynote speakers:
 
  <!-- **[Click here to register]**()(https://vuw.eventsair.com/mapnet-2019/mapnet2019). -->
 
-## MapNet 2025
 
-MapNet2025 themes include primary sector genomics, bioinformatics, integrating indigenous genomics into research and teaching, methodology advances, and ecological & evolutionary genomics. The program and times will be updated closer to the meeting date and posted here as a pdf.
-
-![poster](../assets/MapNet_poster_website_version.png)
 
 ## Sponsors
 
