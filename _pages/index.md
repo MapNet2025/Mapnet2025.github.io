@@ -88,7 +88,7 @@ We are pleased to announce our 2025 keynote speakers:
 [![illumina](../assets/illumina-full-logo-warm-rgb-pumpkin-black.jpg)](https://www.illumina.com/)
 <span></span>
 
-[![Kindstar Sequenon](../assets/kindstar_logo.jpg)]
+[![Kindstar Sequenon](../assets/kindstar_logo.jpg)](https://www.illumina.com/)
 
 <span></span>
 
