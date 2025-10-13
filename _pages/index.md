@@ -16,7 +16,7 @@ MapNet2025 will be held where it all started 20 years ago on the Plant and Food 
 
 MapNet2025 themes include primary sector genomics, bioinformatics, integrating indigenous genomics into research and teaching, methodology advances, and ecological & evolutionary genomics. The program and times will be updated closer to the meeting date and posted here as a pdf.
 
-![poster](../assets/MapNet_poster_website_version.png)
+![poster](../assets/MapNet_Poster_Final_2.png)
 
 
 Two workshops will be run in conjunction with this years MapNet.
