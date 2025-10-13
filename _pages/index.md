@@ -88,7 +88,8 @@ We are pleased to announce our 2025 keynote speakers:
 [![illumina](../assets/illumina-full-logo-warm-rgb-pumpkin-black.jpg)](https://www.illumina.com/)
 <span></span>
 
-[![Kindstar Sequenon](../assets/kindstar_logo.jpg)]
+[![Kindstar Sequenon](../assets/kindstar_logo.jpg)
+
 <span></span>
 
 [![BSI - AgResearch](../assets/AgResearch_BSI_Wide_RGB.jpg)](https://www.agresearch.co.nz/)
