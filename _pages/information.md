@@ -13,9 +13,9 @@ MapNet Meeting 11-12 November, 2025
 
 | Travel Grants close |  Now closed. |
 
-| Deadline for abstract submission | 14 October, 2025 |
+| Deadline for abstract submission | Extended to 21 October, 2025 |
 
-| Registration closes | 21 October, 2025 |
+| Registration closes | Extended to 28 October, 2025 |
 
 <!--
 | Deadline for abstract submission | 14 October, 2023 |
