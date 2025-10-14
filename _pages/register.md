@@ -19,7 +19,7 @@ MapNet [registration](https://events.humanitix.com/mapnet2025) is now open.
 
     *Note profits from booking fees taken through Humanitix are donated to charitable organisations.
 
-Registration closes 21 October, 2025.
+Registration closes 28th October, 2025.
 
 
 <!--
