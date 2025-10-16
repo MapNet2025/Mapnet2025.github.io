@@ -1,7 +1,6 @@
 ---
 permalink: /keynotes/
-layout: page
-title: "Keynote Speakers 2025"
+
 header:
   cta_label: false
   cta_url: false
