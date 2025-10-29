@@ -27,10 +27,10 @@ Two workshops will be run in conjunction with this years MapNet.
 
 - See [the Workshops page](https://mapnet2025.github.io/workshops) for details on these.
 
-<!--Registrations have now closed. 
+
 
 [**Click here for the conference programme**](../assets/MapNet_booklet_programmet.pdf)
--->
+
 
 
 **Keynote speakers**
