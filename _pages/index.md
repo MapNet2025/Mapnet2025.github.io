@@ -29,7 +29,7 @@ Two workshops will be run in conjunction with this years MapNet.
 
 <!--Registrations have now closed. 
 
-#[**Click here for the conference programme**](https://github.com/MapNet2023/Mapnet2023.github.io/blob/main/assets/MapNet23_booklet.pdf)
+[**Click here for the conference programme**](../assets/MapNet_booklet_programmet.pdf)
 -->
 
 
