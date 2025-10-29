@@ -29,8 +29,8 @@ Two workshops will be run in conjunction with this years MapNet.
 
 
 **Conference Programme**
-[**Click here for the conference programme**](../assets/MapNet_booklet_programmet.pdf)
 
+[**Click here for the conference programme**](../assets/MapNet_booklet_programme.pdf)
 
 
 **Keynote speakers**
