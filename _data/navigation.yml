@@ -1,8 +1,8 @@
 main:
-  #  - title: "Programme"
-  #    url: /programme/
    - title: "Information"
      url: /info/
+   - title: "Programme"
+     url: /programme/
    - title: "Keynotes"
      url: /keynotes/
    - title: "Register"
