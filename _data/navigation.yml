@@ -1,21 +1,21 @@
 main:
    - title: "Information"
      url: /info/
-   - title: "Programme"
-     url: /programme/
-   - title: "Keynotes"
-     url: /keynotes/
-   - title: "Register"
-     url: /register/
-   - title: "Abstracts"
-     url: /abstracts/
-   - title: "Workshops"
-     url: /workshops/
+#   - title: "Programme"
+#     url: /programme/
+#   - title: "Keynotes"
+#     url: /keynotes/
+#   - title: "Register"
+#     url: /register/
+#   - title: "Abstracts"
+#     url: /abstracts/
+#   - title: "Workshops"
+#     url: /workshops/
    - title: "About"
      url: /about/
    - title: "Contact"
      url: /contact/
    - title: "Conduct"
      url: /conduct/
-   - title: "Travel Grants"
-     url: /travel grants/
+#   - title: "Travel Grants"
+#     url: /travel grants/
