@@ -1,7 +1,7 @@
 ---
 permalink: /
-Title: "Welcome to 20 years of MapNet"
-excerpt: "Lincoln, 11–12 November."
+Title: "Welcome to MapNet"
+excerpt: "Hamilton, 03-04 November, 2026."
 header:
     overlay_image: "/assets/banner.png"
     overlay_filter: "0"
@@ -11,40 +11,13 @@ header:
 
 <span></span>
 
-# Welcome to the 2025 MapNet meeting
-MapNet2025 will be held where it all started 20 years ago on the Plant and Food campus in Lincoln, 11th - 12th November 2025.
+# Welcome to the 2026 MapNet meeting
+MapNet2026 will be held on the LIC (Livestock Improvement Corporation) campus in Newstead Hamilton, 3rd - 4th November 2026.
 
-MapNet2025 themes include primary sector genomics, bioinformatics, integrating indigenous genomics into research and teaching, methodology advances, and ecological & evolutionary genomics. The program and times will be updated closer to the meeting date and posted here as a pdf.
+The conference themes, program and other information will be updated closer to the meeting date and posted here.
 
-![poster](../assets/MapNet_Poster_Final_2.png)
+![poster](../assets/mapnet26_save_the_date.png)
 
-
-Two workshops will be run in conjunction with this years MapNet.
-
-- BLUP Methods Workshop: 10th November, 2025
-
-- Consulting Māori communities on gene technology research Workshop: 13th November, 2025
-
-- See [the Workshops page](https://mapnet2025.github.io/workshops) for details on these.
-
-
-**Conference Programme**
-
-[**Click here for the conference programme**](../assets/MapNet_booklet_programme.pdf)
-
-
-**Keynote speakers**
-
-We are pleased to announce our 2025 keynote speakers:
-
-- Professor Brian Cullis: University of Wollongong.
-    - _DWREML: a computationally efficient R package for fitting aspirational mixed models in genetic improvement programs_
-
-- Associate Professor Anna Santure: University of Auckland.
-    - _Leveraging two decades of monitoring to map inbreeding depression in the threatened hihi (stitchbird; Notiomystis cincta)"_
-      
-- Dr Timothy Bilton: BSI - AgResearch.
-    - _A new era of genomic prediction for the primary industries: Genomics for all, phenotyping at scale_
 
 <!--
 - Professor Elinor Karlsson: Director, Vertebrate Genomics, Broad Institute of MIT and Harvard.
@@ -65,44 +38,6 @@ We are pleased to announce our 2025 keynote speakers:
 <!-- [**Click here for the conference programme**]()  (https://vuwgenomics.github.io/mapnet2019.github.io/pdfs/MapNet2019programme.pdf). -->
 
  <!-- **[Click here to register]**()(https://vuw.eventsair.com/mapnet-2019/mapnet2019). -->
-
-
-
-## Sponsors
-
-[![GenomicsAotearoa](../assets/GA-Wide-Colour-1200px.jpg)](https://www.genomics-aotearoa.org.nz)
-
-<span></span>
-
-[![GenomNZ](../assets/GenomNZ%20(RGB).jpg)](https://www.agresearch.co.nz/partnering-with-us/products-and-services/genomnz/)
-
-<span></span>
-
-[![decode science](../assets/Decode-stacked-colour-RGB.jpg)](https://decodescience.co.nz/)
-
-<span></span>
-
-[![Bragato](../assets/BRI_preferred_logo.jpg)](https://bri.co.nz/)
-<span></span>
-
-[![illumina](../assets/illumina-full-logo-warm-rgb-pumpkin-black.jpg)](https://www.illumina.com/)
-<span></span>
-
-[![Kindstar Sequenon](../assets/kindstar_logo.jpg)](https://www.illumina.com/)
-
-<span></span>
-
-[![BSI - AgResearch](../assets/AgResearch_BSI_Wide_RGB.jpg)](https://www.agresearch.co.nz/)
-
-<span></span>
-
-[![BSI - Plant and Food Research](../assets/BSI-PFR_logo.png)](https://www.plantandfood.com/en-nz/)
-
-<span></span>
-
-[![UniversityOfOtago](../assets/University-of-Otago-stacked-wordmark-image-1880.jpg)](https://www.otago.ac.nz.nz)
-<span></span>
-
 
 
 <!--## Sponsors 2023
