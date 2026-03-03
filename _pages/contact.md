@@ -9,9 +9,7 @@ header:
 
 # Contact us
 
-You can email the MapNet 2025 organisers at <a hef="mailto:mapnet25@agresearch.co.nz">mapnet25@agresearch.co.nz</a>. This is the preferred method of contact.
-
-If necessary, you can also contact one of the organisers directly.
+You can email the MapNet organisers at <a hef="mailto:mapnetnz@gmail.com">mapnetnz@gmail.com</a>. This is the preferred method of contact.
 
 
 
