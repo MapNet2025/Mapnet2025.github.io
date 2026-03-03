@@ -16,7 +16,7 @@ MapNet2026 will be held on the LIC (Livestock Improvement Corporation) campus in
 
 The conference themes, program and other information will be updated closer to the meeting date and posted here.
 
-![poster](../assets/mapnet26_save_the_date.png)
+![poster](../assets/2026/mapnet26_save_the_date.png)
 
 
 <!--
