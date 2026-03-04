@@ -1,22 +1,23 @@
 ---
 permalink: /
-Title: "Welcome to MapNet"
-excerpt: "Hamilton, 03-04 November, 2026."
-header:
-    overlay_image: "/assets/banner.png"
-    overlay_filter: "0"
-    cta_label: False
-    cta_url: False
+---
+#Title: "Welcome to MapNet"
+#excerpt: "Hamilton, 03-04 November, 2026."
+#header:
+    #overlay_image: "/assets/2026/banner.png"
+    #overlay_filter: "0"
+    #cta_label: False
+    #cta_url: False
 ---
 
 <span></span>
+![poster](../assets/2026/mapnet26_save_the_date.png)
 
 # Welcome to the 2026 MapNet meeting
 MapNet2026 will be held on the LIC (Livestock Improvement Corporation) campus in Newstead Hamilton, 3rd - 4th November 2026.
 
 The conference themes, program and other information will be updated closer to the meeting date and posted here.
 
-![poster](../assets/2026/mapnet26_save_the_date.png)
 
 
 <!--
