@@ -44,7 +44,7 @@ All slides and presentation materials are subject to the code of conduct. Materi
 
 ## Need help?
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the MapNet team (listed below).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please email us at <a hef="mailto:mapnetnz@gmail.com">mapnetnz@gmail.com</a> or contact one of the MapNet team directly (listed below).
 
 ## MapNet team
 
