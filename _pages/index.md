@@ -1,5 +1,7 @@
 ---
 permalink: /
+Title: ""
+excerpt: ""
 header:
     overlay_image: ""
     overlay_filter: "0"
