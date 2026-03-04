@@ -122,7 +122,7 @@ defaults:
       author_profile: true
       layout: single
       author: MapNet26
-      excerpt: "Hamilton, 03-04 November."
+      excerpt: "Hamilton, 03-04 November 2026."
       header:
         overlay_image: "/assets/2026/banner.png"
         overlay_filter: "0"
