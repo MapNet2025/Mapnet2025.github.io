@@ -3,7 +3,7 @@ permalink: /
 Title: ""
 excerpt: ""
 header:
-    overlay_image: "/assets/2026/mapnet26_save_the_date.png"
+    overlay_image: ""
     overlay_filter: "0"
     cta_label: False
     cta_url: False
