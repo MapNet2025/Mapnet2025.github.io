@@ -44,5 +44,14 @@ Please respect the requests of speakers and conference attendees that ask or sug
 
 
 ## Conference organising committee:
-- 
+
+- Chad Harland
+- Emma Voss
+- Fenella Deans
+- Hannah Trebes
+- Laura Duntsch
+- Natalie Graham
+- Steffi Fritsche
+- Thomas Lopdell
+
 
