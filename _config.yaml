@@ -6,8 +6,8 @@ google-site-verification: googlef5afe4ad39d25377.html
 # Site settings
 locale: "en-NZ"
 title_separator: "-"
-title: "MapNet25 - 20 years of MapNet"
-description: "MapNet conference 2025, Lincoln"
+title: "MapNet26"
+description: "MapNet conference 2026, Hamilton"
 url                      : "https://github.com/MapNet2025"
 baseurl                  : "/"        
 repository               : "https://mapnet2025.github.io"
@@ -121,8 +121,8 @@ defaults:
     values:
       author_profile: true
       layout: single
-      author: MapNet25
-      excerpt: "Lincoln, 11–12 November."
+      author: MapNet26
+      excerpt: "Hamilton, 03-04 November."
       header:
         overlay_image: "/assets/banner.png"
         overlay_filter: "0"
