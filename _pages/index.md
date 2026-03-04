@@ -1,9 +1,12 @@
 ---
 permalink: /
+header:
+    overlay_image: ""
+    overlay_filter: "0"
+    cta_label: False
+    cta_url: False
 ---
 <!--
-Title: "Welcome to MapNet"
-excerpt: "Hamilton, 03-04 November, 2026."
 header:
     overlay_image: "/assets/2026/banner.png"
     overlay_filter: "0"
