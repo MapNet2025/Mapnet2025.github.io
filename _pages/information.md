@@ -9,13 +9,7 @@ header:
 
 ## Key dates
 
-MapNet Meeting 11-12 November, 2025
-
-| Travel Grants close |  Now closed. |
-
-| Deadline for abstract submission | Extended to 21 October, 2025 |
-
-| Registration closes | Extended to 28 October, 2025 |
+MapNet Meeting 03-04 November, 2026
 
 <!--
 | Deadline for abstract submission | 14 October, 2023 |
@@ -28,12 +22,14 @@ MapNet Meeting 11-12 November, 2025
 
 ## Location
 
-MapNet 2025 is being held in the Fitzgerald Room, BSI - Plant and Food Lincoln.
+MapNet 2026 is being held in the Tempero Center, LIC (Livestock Improvement Corporation), Newstead, Hamilton.
 
 
 ## Social Media
 
+<!--
 If you are using X (a.k.a. the social media platform formerly known as Twitter), tag your conference posts #mapn25
+-->
 
 Please respect the requests of speakers and conference attendees that ask or suggest not to be included in social media posts.
 
@@ -48,15 +44,5 @@ Please respect the requests of speakers and conference attendees that ask or sug
 
 
 ## Conference organising committee:
-- Rachael Ashby
-- Samantha Baldwin
-- Mik Black
-- Rebecca Bloomer
-- Ting-Hsuan Chen
-- Rebecca Clarke
-- Shannon Clarke
-- Ken Dodds
-- Jeanne Jacobs
-- Alastair Lamont
-- Phillip Wilcox
+- 
 
