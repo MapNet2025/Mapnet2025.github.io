@@ -1,6 +1,6 @@
 ---
 permalink: /
-Title: "tittle?"
+Title: ""
 excerpt: ""
 header:
     overlay_image: "/assets/2026/web_banner_w_std.png"
