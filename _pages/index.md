@@ -3,7 +3,7 @@ permalink: /
 Title: ""
 excerpt: ""
 header:
-    overlay_image: "/assets/2026/banner.png"
+    overlay_image: "/assets/2026/banner_blank.png"
     overlay_filter: "0"
     cta_label: False
     cta_url: False
