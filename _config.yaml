@@ -8,20 +8,20 @@ locale: "en-NZ"
 title_separator: "-"
 title: "MapNet26"
 description: "MapNet conference 2026, Hamilton"
-url                      : "https://github.com/MapNet2025"
+url                      : "https://github.com/MapNet2026"
 baseurl                  : "/"        
-repository               : "https://mapnet2025.github.io"
+repository               : "https://mapnet2026.github.io"
 teaser                   : "/assets/mapnet.jpg"
 words_per_minute         : 200
 
 # Site Author
 author:
-  name             : "MapNet25"
+  name             : "MapNet26"
   avatar           : "/assets/mapnet.jpg"
 
 # Hide feed
 atom_feed:
-  path: "https://github.com/mapnet2025.github.io"
+  path: "https://github.com/mapnet2026.github.io"
 
 # Reading Files
 include:
